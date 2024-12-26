@@ -31,7 +31,6 @@ Animal* createRandomAnimal()
 	default:
 		return nullptr;
 	}
-	return nullptr;
 }
 
 int main()
